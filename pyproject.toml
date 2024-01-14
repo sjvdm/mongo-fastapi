@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "mongo-fastapi"
+version = "0.1.0"
+description = ""
+authors = ["SJ van der Merwe <sj@vandermerwe.info>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
