@@ -14,3 +14,16 @@ poetry install
 poetry shell
 ```
 5. Your virtual enviroment should now be activated with all dependencies.
+
+
+## Authorization
+
+The planned route is JWT for API auth.
+
+
+## Useful resources
+ - https://medium.com/@miladev95/fastapi-crud-with-mongodb-d7a8fbb8c53e
+ - https://www.mongodb.com/developer/languages/python/python-quickstart-fastapi/
+ - https://www.freecodecamp.org/news/how-to-build-and-publish-python-packages-with-poetry/
+ - https://medium.com/@caetanoog/start-your-first-fastapi-server-with-poetry-in-10-minutes-fef90e9604d9
+ - https://fastapi.tiangolo.com/
